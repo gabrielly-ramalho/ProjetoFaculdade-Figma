@@ -14,6 +14,7 @@ O projeto foi feito no Figma com as seguintes opções:
   - CALISTENIA
   - HIT
   - FUNCIONAL
+    
 Também contém a aba "ADICIONAIS" que tem as opções:
   - ALONGAMENTO
   - ROTINA ALIMENTAR
@@ -27,3 +28,6 @@ atividade física (as mais populares) - já com um treino básico pronto para vo
 Também adicionamos um ótimo aliado para você nesta nova fase: algumas dicas básicas, 
 mas de grande relevância para auxiliar em sua rotina de alimentação e sono. Essas duas coisas que 
 parecem até bobas, podem fazer uma diferença muito significante nos seus resultados. Bom treino e divista-se!"
+
+# O PROTÓTIPO:
+https://www.figma.com/proto/szwYEmOGwebeYU9dMvFwe0/App-treino--forum-UX-versao-final-pronto?node-id=4002-427&p=f&t=zL5grMTEL08rtVUt-1&scaling=scaledown&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4002%3A427
